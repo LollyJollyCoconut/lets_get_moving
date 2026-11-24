@@ -46,7 +46,7 @@
 		</data>
 		<key>Frameworks/App.framework/App</key>
 		<data>
-		Oa27D8cDeSJ/YbzjmqscTmYraLc=
+		mSWOJ8qbIZ47fgszTllPBeBx4BE=
 		</data>
 		<key>Frameworks/App.framework/Info.plist</key>
 		<data>
@@ -54,15 +54,15 @@
 		</data>
 		<key>Frameworks/App.framework/_CodeSignature/CodeResources</key>
 		<data>
-		bs/2qCyM1mwYS+2O+M8qiy4yatk=
+		vU4IlnVjz6LtNYz/Lir/Gqvxm+w=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.bin</key>
 		<data>
-		nR26n1bL1uDIH6zkE34U1LRsYsA=
+		7hmu9ChcCM5g4XbFEBRenXOZMOI=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/FontManifest.json</key>
 		<data>
-		vKJkVIcw+LGHFnKJGwrQwCREv68=
+		i+lTZAS0JUa2yfndTFZuJUhSMyQ=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/NOTICES.Z</key>
 		<data>
@@ -71,6 +71,78 @@
 		<key>Frameworks/App.framework/flutter_assets/NativeAssetsManifest.json</key>
 		<data>
 		re4p7E8rPLLsN+wzaPN/+AVpXTY=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/fonts/Montserrat-Black.ttf</key>
+		<data>
+		6avglLZUafa2o3O1Q6twMNwUXHw=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/fonts/Montserrat-BlackItalic.ttf</key>
+		<data>
+		P4YSDtPSi7mqwP7XoCkKDPvv9TE=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/fonts/Montserrat-Bold.ttf</key>
+		<data>
+		vnwUOAcKtjfhFxaRXk5QkDcm3Mg=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/fonts/Montserrat-BoldItalic.ttf</key>
+		<data>
+		zTeJrlXMcCd2r90v0aga4Wxp+/Q=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/fonts/Montserrat-ExtraBold.ttf</key>
+		<data>
+		hPFnduIJnTtX2O0jm3bm+jKEsuc=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/fonts/Montserrat-ExtraBoldItalic.ttf</key>
+		<data>
+		lsFzUS8UEYqXrPASefpjuucMYDU=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/fonts/Montserrat-ExtraLight.ttf</key>
+		<data>
+		zHokqGLxd5vbv3immEu5rpMkoSg=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/fonts/Montserrat-ExtraLightItalic.ttf</key>
+		<data>
+		tmWo/JttKkyJrIf8SAVhyYv/9Pg=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/fonts/Montserrat-Italic.ttf</key>
+		<data>
+		rvTmoa8YSWRM4ek0tKuQWekW2Ic=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/fonts/Montserrat-Light.ttf</key>
+		<data>
+		M5fNmOUTZcielc0RMOAUG9pQUd4=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/fonts/Montserrat-LightItalic.ttf</key>
+		<data>
+		WBrPwUN4j3DEiengi2AJuvkK344=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/fonts/Montserrat-Medium.ttf</key>
+		<data>
+		d/NVNBXYWMZTuupFqsqyAZZ3YzQ=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/fonts/Montserrat-MediumItalic.ttf</key>
+		<data>
+		OiANvkFeQh7KyjhTLRk4CSAhfDk=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/fonts/Montserrat-Regular.ttf</key>
+		<data>
+		7BPvHyyZ+HgNby6z+fJ++J8wFhs=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/fonts/Montserrat-SemiBold.ttf</key>
+		<data>
+		efdGFtaLh9bPiXmP5yJZA2MmVno=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/fonts/Montserrat-SemiBoldItalic.ttf</key>
+		<data>
+		iJPBn22u5DSNHoss4L1GmKXcoOU=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/fonts/Montserrat-Thin.ttf</key>
+		<data>
+		VQ5uHZkjael+nwCqca5IKmpjJtc=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/fonts/Montserrat-ThinItalic.ttf</key>
+		<data>
+		jZX0oM+fc/cva0NoF6jUNPeuTmU=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/assets/images/lgm_logo.svg</key>
 		<data>
@@ -102,7 +174,7 @@
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/kernel_blob.bin</key>
 		<data>
-		vmIvGP9RmXyQLSgUgCRykxeZg5A=
+		3WxUnOs/ElAh2etZmPnwDepn5nY=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -222,7 +294,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		uuD8PCF7fVhigLmcfb/9iqpeWHI=
+		hkMOqLlfrWCWZoEaE1HyMMxNWuE=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -313,7 +385,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			MdWefvNrJykRLiA1/+nfxIQKOpPblzxcp6FV1MGMlR4=
+			M+InXPoOJSOqCT4rXdJ76ciJdcJO7IxXytE7pjv7gaU=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/Info.plist</key>
@@ -327,21 +399,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			kzvxLCSLIN4CWP62saW/L9FKmMOCqcVTrNxGQYEhR80=
+			VhOH6jq1yuVxSc9Iwjb9QyYc0Zo+c6YRXBn1iybfylA=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.bin</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6MK4OU9kTtXWUxLmSa2eI4FRG4oyEo9WOKGNexxuNrQ=
+			w7eCzB0Q1IOQVcoysyzlVbEdzPAUdcTTpLBbjLXjI0g=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/FontManifest.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zX4DZFvESy3Ue3y2JvUcTsv1Whl6t3JBYotHrBZfviE=
+			/m3X9OtgF8AQ7h0UVw9diQZy/LVcxs99TdZ8hTCAZnI=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/NOTICES.Z</key>
@@ -356,6 +428,132 @@
 			<key>hash2</key>
 			<data>
 			lUijHkoEgTXB2U+Rkyi/tirix7s8q5ZVfHlB2ql3dss=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/fonts/Montserrat-Black.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			tI5nQbmInt5P/j2Kz9o+aRfGISdTexn+cgbLoE5uu2M=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/fonts/Montserrat-BlackItalic.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			BjDua8BpwU0ojN7J41In4UDdknLdQ9s+VKDnjqPbMFI=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/fonts/Montserrat-Bold.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			f6k9fapcL4gaZycinCEXgt5rdgCPvWNGs9dmTo/IP0M=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/fonts/Montserrat-BoldItalic.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ABpZsPLFQQgAM7g8pt+szgMJXZnKo1lINfUbfG2c51g=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/fonts/Montserrat-ExtraBold.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			XPCiMTPMzjX54RW427+QQ0IBgnvCRl0S+dkbvwLPlGY=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/fonts/Montserrat-ExtraBoldItalic.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Rc6T2pb7z/VUfPCBvJec1SXDVnvXMvgw/r3o8p8r/9I=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/fonts/Montserrat-ExtraLight.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			GsDgBpJUjjFCENEGGd5lYiVFf9RcebVtJCzfc5z3J48=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/fonts/Montserrat-ExtraLightItalic.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			h/m4FB6W4GkXBCxt5SZ9dJj7YIJHBLVm2IHim1begHc=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/fonts/Montserrat-Italic.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			fofA+Ws5+7kZswrviZEyPQsldknzkeZFa88DwjFEj0k=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/fonts/Montserrat-Light.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			lj13LJxEs8QBslfWk60mAG/HvVQhWVfVE1a0DjY1P4Q=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/fonts/Montserrat-LightItalic.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			AsixSh3E8LWSA2TqfM2WZHbnRQ8i/FTgXjcP3+ZgkUE=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/fonts/Montserrat-Medium.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			zRYcujo83PaK1yGSD80WTIfnt8yea61RAnjD+jeNkdI=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/fonts/Montserrat-MediumItalic.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			b/9blvRnmd2QPVy/mfCQHTB35bmYQ+WpK2o6Mktt2Z8=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/fonts/Montserrat-Regular.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			75z5nwF1vvUwuIk0vZBPz1b3c87G/U37jMr3ziu9OV4=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/fonts/Montserrat-SemiBold.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			nE2zgUh1QQ59ZP3I5pZ2w7hJaLsVvzrOizlExZ+8VrY=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/fonts/Montserrat-SemiBoldItalic.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			+FjTlkOJpORes0DZ01wPRRXsfuNdB544AKXCLZxpfVA=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/fonts/Montserrat-Thin.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			qMAnFkOz0iN+EeE+5ZACTUmzW3dgFJWOYP5hV8P1I/o=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/fonts/Montserrat-ThinItalic.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			V1wt4bwS0+6TrQGk/hrKviJUzb9vV/hUdTzheIyh4zI=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/assets/images/lgm_logo.svg</key>
@@ -411,7 +609,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6TEbmr3Fdbx4NpQhOkI3oWlDUOMa2lWFWNhS+MG6MSE=
+			U3Xl7Q0z1jLWPkD6lIGWRMgAlSGWGkNG8nccrOKh/l4=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
