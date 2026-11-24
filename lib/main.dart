@@ -109,6 +109,10 @@ class _MyHomePageState extends State<MyHomePage> {
               '$_counter',
               style: Theme.of(context).textTheme.headlineMedium,
             ),
+            Image.asset(
+              'assets/images/lgm_logo_transparent.png',
+              width: 150,
+            ),
           ],
         ),
       ),

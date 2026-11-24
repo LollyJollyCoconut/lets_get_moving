@@ -10,7 +10,7 @@
 		</data>
 		<key>flutter_assets/AssetManifest.bin</key>
 		<data>
-		ME0cAg6cl/bTZmwXEVgMugDccUI=
+		nR26n1bL1uDIH6zkE34U1LRsYsA=
 		</data>
 		<key>flutter_assets/FontManifest.json</key>
 		<data>
@@ -24,6 +24,26 @@
 		<data>
 		re4p7E8rPLLsN+wzaPN/+AVpXTY=
 		</data>
+		<key>flutter_assets/assets/images/lgm_logo.svg</key>
+		<data>
+		b9OZl9OPPS+rHjXwxQoayU1fLk0=
+		</data>
+		<key>flutter_assets/assets/images/lgm_logo_no_text.svg</key>
+		<data>
+		96ilS/4E+cF8ruGYFc0988ufZV8=
+		</data>
+		<key>flutter_assets/assets/images/lgm_logo_no_text_transparent.png</key>
+		<data>
+		HSdkTWn2StqrkhWBXjvjwp3EHYY=
+		</data>
+		<key>flutter_assets/assets/images/lgm_logo_no_text_white.png</key>
+		<data>
+		lJ6DknLqeiKZE9F9OIfJcLmogy4=
+		</data>
+		<key>flutter_assets/assets/images/lgm_logo_transparent.png</key>
+		<data>
+		mXUxntvjr6RgzOq2OQMQPgBZ34I=
+		</data>
 		<key>flutter_assets/fonts/MaterialIcons-Regular.otf</key>
 		<data>
 		/CUoTuPQqqdexfyOT9lpJhV+2MQ=
@@ -34,7 +54,7 @@
 		</data>
 		<key>flutter_assets/kernel_blob.bin</key>
 		<data>
-		utVywRHCJqeZ5tWmupMQYhfdaXw=
+		vmIvGP9RmXyQLSgUgCRykxeZg5A=
 		</data>
 		<key>flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -59,7 +79,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			AK9VrT1vIYmP534P8JLRoc2lLJQbaGDpko1FyK+MCV0=
+			6MK4OU9kTtXWUxLmSa2eI4FRG4oyEo9WOKGNexxuNrQ=
 			</data>
 		</dict>
 		<key>flutter_assets/FontManifest.json</key>
@@ -83,6 +103,41 @@
 			lUijHkoEgTXB2U+Rkyi/tirix7s8q5ZVfHlB2ql3dss=
 			</data>
 		</dict>
+		<key>flutter_assets/assets/images/lgm_logo.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			HEWctO+WJaWnXe3J4cKnUFOlTnJyJGCxwlA3v5r4WI8=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/images/lgm_logo_no_text.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			0kExV/PwZaGBG3yO5za1xSJiPdzq592XkLT+79F//0Y=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/images/lgm_logo_no_text_transparent.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			axcphpe+Yw4hfwyH4TE73lHcOPC3nic17c/gsTbx3Nc=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/images/lgm_logo_no_text_white.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			xEsqUoTPfJ3NT+ihJo1RH6QHUYOTCkcchG0iMeBsQyo=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/images/lgm_logo_transparent.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			beykM1bZdMQN0ZXOEU6czoLiI2Z9kYIBxjmVSHVA0s0=
+			</data>
+		</dict>
 		<key>flutter_assets/fonts/MaterialIcons-Regular.otf</key>
 		<dict>
 			<key>hash2</key>
@@ -101,7 +156,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			7ta5l99W7NbvqvrFXUz3Yg27fXW8WOw4vXLL27o1T0A=
+			6TEbmr3Fdbx4NpQhOkI3oWlDUOMa2lWFWNhS+MG6MSE=
 			</data>
 		</dict>
 		<key>flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>

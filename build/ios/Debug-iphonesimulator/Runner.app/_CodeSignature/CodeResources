@@ -46,7 +46,7 @@
 		</data>
 		<key>Frameworks/App.framework/App</key>
 		<data>
-		/XdCVnacZ50PXJFgEHSlxG7Q/Ow=
+		Oa27D8cDeSJ/YbzjmqscTmYraLc=
 		</data>
 		<key>Frameworks/App.framework/Info.plist</key>
 		<data>
@@ -54,11 +54,11 @@
 		</data>
 		<key>Frameworks/App.framework/_CodeSignature/CodeResources</key>
 		<data>
-		UCflw+nK470mP4I7GgG61wM+bME=
+		bs/2qCyM1mwYS+2O+M8qiy4yatk=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.bin</key>
 		<data>
-		ME0cAg6cl/bTZmwXEVgMugDccUI=
+		nR26n1bL1uDIH6zkE34U1LRsYsA=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/FontManifest.json</key>
 		<data>
@@ -72,6 +72,26 @@
 		<data>
 		re4p7E8rPLLsN+wzaPN/+AVpXTY=
 		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/images/lgm_logo.svg</key>
+		<data>
+		b9OZl9OPPS+rHjXwxQoayU1fLk0=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/images/lgm_logo_no_text.svg</key>
+		<data>
+		96ilS/4E+cF8ruGYFc0988ufZV8=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/images/lgm_logo_no_text_transparent.png</key>
+		<data>
+		HSdkTWn2StqrkhWBXjvjwp3EHYY=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/images/lgm_logo_no_text_white.png</key>
+		<data>
+		lJ6DknLqeiKZE9F9OIfJcLmogy4=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/images/lgm_logo_transparent.png</key>
+		<data>
+		mXUxntvjr6RgzOq2OQMQPgBZ34I=
+		</data>
 		<key>Frameworks/App.framework/flutter_assets/fonts/MaterialIcons-Regular.otf</key>
 		<data>
 		/CUoTuPQqqdexfyOT9lpJhV+2MQ=
@@ -82,7 +102,7 @@
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/kernel_blob.bin</key>
 		<data>
-		utVywRHCJqeZ5tWmupMQYhfdaXw=
+		vmIvGP9RmXyQLSgUgCRykxeZg5A=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -202,7 +222,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		sguebYSDUFLFJnhPr2abRfPZymA=
+		uuD8PCF7fVhigLmcfb/9iqpeWHI=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -293,7 +313,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/AEsRLLIURYtMk42Nyx122lnzmKWJ+alSra70niJuCo=
+			MdWefvNrJykRLiA1/+nfxIQKOpPblzxcp6FV1MGMlR4=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/Info.plist</key>
@@ -307,14 +327,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			GU2/jc7VpuXtz/T7PzWeYQPYr9lkbiTXDoFSi2+16hQ=
+			kzvxLCSLIN4CWP62saW/L9FKmMOCqcVTrNxGQYEhR80=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.bin</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			AK9VrT1vIYmP534P8JLRoc2lLJQbaGDpko1FyK+MCV0=
+			6MK4OU9kTtXWUxLmSa2eI4FRG4oyEo9WOKGNexxuNrQ=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/FontManifest.json</key>
@@ -338,6 +358,41 @@
 			lUijHkoEgTXB2U+Rkyi/tirix7s8q5ZVfHlB2ql3dss=
 			</data>
 		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/images/lgm_logo.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			HEWctO+WJaWnXe3J4cKnUFOlTnJyJGCxwlA3v5r4WI8=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/images/lgm_logo_no_text.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			0kExV/PwZaGBG3yO5za1xSJiPdzq592XkLT+79F//0Y=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/images/lgm_logo_no_text_transparent.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			axcphpe+Yw4hfwyH4TE73lHcOPC3nic17c/gsTbx3Nc=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/images/lgm_logo_no_text_white.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			xEsqUoTPfJ3NT+ihJo1RH6QHUYOTCkcchG0iMeBsQyo=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/images/lgm_logo_transparent.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			beykM1bZdMQN0ZXOEU6czoLiI2Z9kYIBxjmVSHVA0s0=
+			</data>
+		</dict>
 		<key>Frameworks/App.framework/flutter_assets/fonts/MaterialIcons-Regular.otf</key>
 		<dict>
 			<key>hash2</key>
@@ -356,7 +411,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			7ta5l99W7NbvqvrFXUz3Yg27fXW8WOw4vXLL27o1T0A=
+			6TEbmr3Fdbx4NpQhOkI3oWlDUOMa2lWFWNhS+MG6MSE=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
